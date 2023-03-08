@@ -1,0 +1,19 @@
+ <div class="logo">
+        <img src="src\img\output.png">
+    </div>
+
+
+    .zalupa-media a:last-child {margin: 0;}
+
+.zalupa-media a i {
+    margin: 0 5px 0 0;
+    justify-self: center;
+    align-self: center;
+}
+
+.zalupa-media a svg {
+    margin: 0 5px 0 0;
+    justify-self: center;
+    align-self: center;
+}
+.zalupa-media a:hover {text-shadow: 0 0 20px #ffffff;}
